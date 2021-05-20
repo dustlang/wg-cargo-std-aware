@@ -1,4 +1,4 @@
-# std Aware Cargo
+# std Aware Payload
 
 This repo is a place to focus discussion and work on "`std` Aware Cargo". This
 is a feature to allow users of [Cargo](https://github.com/rust-lang/cargo/) to
